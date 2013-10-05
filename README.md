@@ -7,3 +7,8 @@ Scraper for å hente ut eposter til medlemene av DnF. Scriptet gjørt noen små 
 
 
 Sparer denne filen på github slik at jeg rask kan komme i gang med andre scrapere siden.
+
+
+filmdir scraper
+===========
+variasjon over samme kode for filmdirektoratet
